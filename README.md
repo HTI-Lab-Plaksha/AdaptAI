@@ -42,7 +42,7 @@ Before running the application, update the following variables in the code:
 
 ### 3️⃣ Run AdaptAI  
 
-- To **connect an ECG sensor** and log real-time data, run `movesense_sensor_data.py`.  
+- To **connect an ECG sensor** and log real-time data, run `movesense_sensor_data.py`. 
 - To **enable interventions and audio agents**, run `main.py` (ensure egocentric vision and audio devices are connected and credentials updated).  
 - To **launch the Tone-Adaptive Conversational Agent (TCA)**, use Streamlit:  
 
