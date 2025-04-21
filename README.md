@@ -82,4 +82,3 @@ Please cite the following if you reference our work:
 ## Acknowledgement 🤝
 
 A big thank you to everyone who took part in our user study and to those who helped create the demo video! A special thanks to Groq for their incredibly fast model inference time!
-
